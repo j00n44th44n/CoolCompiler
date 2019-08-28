@@ -1,0 +1,24 @@
+class A inherits IO
+{
+    a : Int;
+
+    change(): Int
+    {
+        {
+           self.out_int(a);    
+           a <- 5;
+           out_int(a);
+           
+           While a >= 0
+           loop
+           {
+               a <- a-1;
+               self@IO.out_int(a);
+           }
+           pool;
+           
+
+        }
+        
+    };
+}

@@ -1,0 +1,22 @@
+class Main inherits IO
+{   
+    i:Int;
+    b:Bool;
+    main () : Object
+    {
+        {
+            i <- 0;
+            b <- "hola mundo".length() = 3;
+            while  i < 10
+            loop
+            {                
+                out_string("inside while \n");
+                out_int(i);
+                i <- i +1;
+            }
+            pool;
+            out_string("end");
+        }
+    };
+
+};

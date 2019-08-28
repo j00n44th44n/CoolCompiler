@@ -1,0 +1,12 @@
+class Main {
+	io: IO <- new IO;
+	main():Object {
+		{
+		new IO.out_string("Hello World");
+		io.out_string("2*(2+3)/5 = ");
+		io.out_int(2*(2+3)/5);
+		io.out_int(2/0);
+		}
+	};
+};
+

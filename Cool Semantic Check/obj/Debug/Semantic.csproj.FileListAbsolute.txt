@@ -1,0 +1,20 @@
+E:\De Hiran\Hiran (Repo)\CoolCompiler\Semantic\obj\Debug\Semantic.csproj.CoreCompileInputs.cache
+E:\De Hiran\Hiran (Repo)\CoolCompiler\Semantic\obj\Debug\Semantic.csprojResolveAssemblyReference.cache
+E:\De Hiran\Hiran (Repo)\CoolCompiler\Semantic\bin\Debug\Semantic.dll
+E:\De Hiran\Hiran (Repo)\CoolCompiler\Semantic\bin\Debug\Semantic.pdb
+E:\De Hiran\Hiran (Repo)\CoolCompiler\Semantic\bin\Debug\ParserLexer.dll
+E:\De Hiran\Hiran (Repo)\CoolCompiler\Semantic\bin\Debug\Antlr3.Runtime.dll
+E:\De Hiran\Hiran (Repo)\CoolCompiler\Semantic\bin\Debug\ParserLexer.pdb
+E:\De Hiran\Hiran (Repo)\CoolCompiler\Semantic\bin\Debug\Antlr3.Runtime.pdb
+E:\De Hiran\Hiran (Repo)\CoolCompiler\Semantic\obj\Debug\Semantic.dll
+E:\De Hiran\Hiran (Repo)\CoolCompiler\Semantic\obj\Debug\Semantic.pdb
+E:\De Hiran\CoolCompiler\Semantic\bin\Debug\Semantic.dll
+E:\De Hiran\CoolCompiler\Semantic\bin\Debug\Semantic.pdb
+E:\De Hiran\CoolCompiler\Semantic\bin\Debug\Antlr3.Runtime.dll
+E:\De Hiran\CoolCompiler\Semantic\bin\Debug\Antlr3.Runtime.pdb
+E:\De Hiran\CoolCompiler\Semantic\obj\Debug\Semantic.csprojResolveAssemblyReference.cache
+E:\De Hiran\CoolCompiler\Semantic\obj\Debug\Semantic.csproj.CoreCompileInputs.cache
+E:\De Hiran\CoolCompiler\Semantic\obj\Debug\Semantic.dll
+E:\De Hiran\CoolCompiler\Semantic\obj\Debug\Semantic.pdb
+E:\De Hiran\CoolCompiler\Semantic\bin\Debug\CoolGrammar.dll
+E:\De Hiran\CoolCompiler\Semantic\bin\Debug\CoolGrammar.pdb

@@ -1,0 +1,51 @@
+class A 
+{
+    a: Int <- 2;
+    b: Bool;
+
+    f():Object
+    {
+        new IO.out_int(a * 10)
+    };
+
+    g():Object
+    {
+        {
+            new IO.out_string("\ncall A.g()");
+            if b
+                then new IO.out_string("\nA.b = true") 
+            else 
+                new IO.out_string("\nA.b = false")
+            fi;
+        }
+    };
+};
+
+class B inherits A
+{
+    c:String;
+    f(): Object
+    {
+        {
+            a<- 5;
+            new IO.out_string("\ncall B.f()");
+            new IO. out_int(a);
+        }
+    };
+};
+
+class Main 
+{
+    a: A;
+    b: B <- new B;
+    main():Object
+    {
+        {
+        a <- new A;
+        a.f();    
+        a.g();
+        b.f();
+        b.g();
+        }
+    };
+};

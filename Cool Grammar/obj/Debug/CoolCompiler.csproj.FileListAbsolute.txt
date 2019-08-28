@@ -1,0 +1,16 @@
+E:\De Hiran\Hiran (Repo)\Repos\CoolCompiler\bin\Debug\CoolCompiler.dll
+E:\De Hiran\Hiran (Repo)\Repos\CoolCompiler\bin\Debug\CoolCompiler.pdb
+E:\De Hiran\Hiran (Repo)\Repos\CoolCompiler\bin\Debug\Antlr3.Runtime.dll
+E:\De Hiran\Hiran (Repo)\Repos\CoolCompiler\bin\Debug\Antlr3.Runtime.pdb
+E:\De Hiran\Hiran (Repo)\Repos\CoolCompiler\obj\Debug\CoolCompiler.csprojResolveAssemblyReference.cache
+E:\De Hiran\Hiran (Repo)\Repos\CoolCompiler\obj\Debug\CoolCompiler.csproj.CoreCompileInputs.cache
+E:\De Hiran\Hiran (Repo)\Repos\CoolCompiler\obj\Debug\CoolCompiler.dll
+E:\De Hiran\Hiran (Repo)\Repos\CoolCompiler\obj\Debug\CoolCompiler.pdb
+E:\De Hiran\Hiran (Repo)\CoolCompiler\CoolCompiler\bin\Debug\Antlr3.Runtime.dll
+E:\De Hiran\Hiran (Repo)\CoolCompiler\CoolCompiler\bin\Debug\Antlr3.Runtime.pdb
+E:\De Hiran\Hiran (Repo)\CoolCompiler\CoolCompiler\obj\Debug\CoolCompiler.csprojResolveAssemblyReference.cache
+E:\De Hiran\Hiran (Repo)\CoolCompiler\CoolCompiler\obj\Debug\CoolCompiler.csproj.CoreCompileInputs.cache
+E:\De Hiran\Hiran (Repo)\CoolCompiler\CoolCompiler\bin\Debug\ParserLexer.dll
+E:\De Hiran\Hiran (Repo)\CoolCompiler\CoolCompiler\bin\Debug\ParserLexer.pdb
+E:\De Hiran\Hiran (Repo)\CoolCompiler\CoolCompiler\obj\Debug\ParserLexer.dll
+E:\De Hiran\Hiran (Repo)\CoolCompiler\CoolCompiler\obj\Debug\ParserLexer.pdb

@@ -1,0 +1,41 @@
+class Main {
+    a: A<-new B;
+    -- a@A.f();
+    main():Object
+    {
+        { 
+        -- let a:A <- new B in a.f()
+            new A.f();
+            a.f();
+            -- a@A.f();
+            a.g();
+            --a.h();
+        }
+    };
+};
+
+class A
+{
+    io:IO <- new IO;
+    f():Object
+    {
+        io.out_string("F_A")
+    };
+
+    g():Object
+    {
+        io.out_string("G")
+    };
+};
+
+class B inherits A
+{
+    f():Object
+    {
+        io.out_string("F_B")
+    };
+    h():Object
+    {
+        io.out_string("H_B")
+    };
+};

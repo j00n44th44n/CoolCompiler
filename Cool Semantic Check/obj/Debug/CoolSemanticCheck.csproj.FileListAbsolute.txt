@@ -1,0 +1,42 @@
+E:/De Hiran/CoolCompiler/Semantic/bin/Debug/CoolCheckSemantic.dll
+E:/De Hiran/CoolCompiler/Semantic/bin/Debug/CoolCheckSemantic.pdb
+E:/De Hiran/CoolCompiler/Semantic/bin/Debug/Antlr3.Runtime.dll
+E:/De Hiran/CoolCompiler/Semantic/bin/Debug/CoolGrammar.dll
+E:/De Hiran/CoolCompiler/Semantic/bin/Debug/CoolGrammar.pdb
+E:/De Hiran/CoolCompiler/Semantic/bin/Debug/Antlr3.Runtime.pdb
+E:/De Hiran/CoolCompiler/Semantic/obj/Debug/CoolSemanticCheck.csprojResolveAssemblyReference.cache
+E:/De Hiran/CoolCompiler/Semantic/obj/Debug/CoolSemanticCheck.csproj.CoreCompileInputs.cache
+E:/De Hiran/CoolCompiler/Semantic/obj/Debug/CoolCheckSemantic.dll
+E:/De Hiran/CoolCompiler/Semantic/obj/Debug/CoolCheckSemantic.pdb
+E:/De Hiran/CoolCompiler/Cool Semantic Check/bin/Debug/CoolCheckSemantic.dll
+E:/De Hiran/CoolCompiler/Cool Semantic Check/bin/Debug/CoolCheckSemantic.pdb
+E:/De Hiran/CoolCompiler/Cool Semantic Check/bin/Debug/Antlr3.Runtime.dll
+E:/De Hiran/CoolCompiler/Cool Semantic Check/bin/Debug/CoolGrammar.dll
+E:/De Hiran/CoolCompiler/Cool Semantic Check/bin/Debug/CoolGrammar.pdb
+E:/De Hiran/CoolCompiler/Cool Semantic Check/bin/Debug/Antlr3.Runtime.pdb
+E:/De Hiran/CoolCompiler/Cool Semantic Check/obj/Debug/CoolSemanticCheck.csprojResolveAssemblyReference.cache
+E:/De Hiran/CoolCompiler/Cool Semantic Check/obj/Debug/CoolSemanticCheck.csproj.CoreCompileInputs.cache
+E:/De Hiran/CoolCompiler/Cool Semantic Check/obj/Debug/CoolCheckSemantic.dll
+E:/De Hiran/CoolCompiler/Cool Semantic Check/obj/Debug/CoolCheckSemantic.pdb
+/Users/jonathanfigueroa/Desktop/Compiler/NoChanges/CoolCompiler/Cool Semantic Check/bin/Debug/CoolCheckSemantic.dll
+/Users/jonathanfigueroa/Desktop/Compiler/NoChanges/CoolCompiler/Cool Semantic Check/bin/Debug/CoolCheckSemantic.pdb
+/Users/jonathanfigueroa/Desktop/Compiler/NoChanges/CoolCompiler/Cool Semantic Check/bin/Debug/Antlr3.Runtime.dll
+/Users/jonathanfigueroa/Desktop/Compiler/NoChanges/CoolCompiler/Cool Semantic Check/bin/Debug/CoolGrammar.dll
+/Users/jonathanfigueroa/Desktop/Compiler/NoChanges/CoolCompiler/Cool Semantic Check/bin/Debug/CoolGrammar.pdb
+/Users/jonathanfigueroa/Desktop/Compiler/NoChanges/CoolCompiler/Cool Semantic Check/bin/Debug/Antlr3.Runtime.pdb
+/Users/jonathanfigueroa/Desktop/Compiler/NoChanges/CoolCompiler/Cool Semantic Check/obj/Debug/CoolSemanticCheck.csproj.CoreCompileInputs.cache
+/Users/jonathanfigueroa/Desktop/Compiler/NoChanges/CoolCompiler/Cool Semantic Check/obj/Debug/CoolSemanticCheck.csproj.CopyComplete
+/Users/jonathanfigueroa/Desktop/Compiler/NoChanges/CoolCompiler/Cool Semantic Check/obj/Debug/CoolCheckSemantic.dll
+/Users/jonathanfigueroa/Desktop/Compiler/NoChanges/CoolCompiler/Cool Semantic Check/obj/Debug/CoolCheckSemantic.pdb
+/Users/jonathanfigueroa/Desktop/Compiler/NoChanges/CoolCompiler/Cool Semantic Check/obj/Debug/CoolSemanticCheck.csprojAssemblyReference.cache
+/Users/jonathanfigueroa/Desktop/Compiler/Jonathan/latest/CoolCompiler/Cool Semantic Check/bin/Debug/CoolCheckSemantic.dll
+/Users/jonathanfigueroa/Desktop/Compiler/Jonathan/latest/CoolCompiler/Cool Semantic Check/bin/Debug/CoolCheckSemantic.pdb
+/Users/jonathanfigueroa/Desktop/Compiler/Jonathan/latest/CoolCompiler/Cool Semantic Check/bin/Debug/Antlr3.Runtime.dll
+/Users/jonathanfigueroa/Desktop/Compiler/Jonathan/latest/CoolCompiler/Cool Semantic Check/bin/Debug/CoolGrammar.dll
+/Users/jonathanfigueroa/Desktop/Compiler/Jonathan/latest/CoolCompiler/Cool Semantic Check/bin/Debug/CoolGrammar.pdb
+/Users/jonathanfigueroa/Desktop/Compiler/Jonathan/latest/CoolCompiler/Cool Semantic Check/bin/Debug/Antlr3.Runtime.pdb
+/Users/jonathanfigueroa/Desktop/Compiler/Jonathan/latest/CoolCompiler/Cool Semantic Check/obj/Debug/CoolSemanticCheck.csprojAssemblyReference.cache
+/Users/jonathanfigueroa/Desktop/Compiler/Jonathan/latest/CoolCompiler/Cool Semantic Check/obj/Debug/CoolSemanticCheck.csproj.CoreCompileInputs.cache
+/Users/jonathanfigueroa/Desktop/Compiler/Jonathan/latest/CoolCompiler/Cool Semantic Check/obj/Debug/CoolSemanticCheck.csproj.CopyComplete
+/Users/jonathanfigueroa/Desktop/Compiler/Jonathan/latest/CoolCompiler/Cool Semantic Check/obj/Debug/CoolCheckSemantic.dll
+/Users/jonathanfigueroa/Desktop/Compiler/Jonathan/latest/CoolCompiler/Cool Semantic Check/obj/Debug/CoolCheckSemantic.pdb

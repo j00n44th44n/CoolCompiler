@@ -1,0 +1,107 @@
+﻿<Properties StartupConfiguration="{48198745-9470-4048-A39D-3439E588C27A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MIPS Generator/NativeCode/NativeInstruction.cs">
+    <Files>
+      <File FileName="Tester/Program.cs" Line="90" Column="1" />
+      <File FileName="Cool Semantic Check/Visitor/TypeCollectorVisitor.cs" Line="16" Column="1" />
+      <File FileName="Cool Semantic Check/Visitor/TypeBuilderVisitor.cs" Line="134" Column="1" />
+      <File FileName="Cool Semantic Check/Visitor/TypeCheckerVisitor.cs" Line="135" Column="1" />
+      <File FileName="Class Intermediate Language/Visitor/CodeGeneratorVisitor.cs" Line="1179" Column="42" />
+      <File FileName="Class Intermediate Language/Utils/CIL_Factory.cs" Line="61" Column="36" />
+      <File FileName="MIPS Generator/Generator/MIPS GeneratorVisitor.cs" Line="42" Column="51" />
+      <File FileName="MIPS Generator/NativeCode/NativeInstruction.cs" Line="129" Column="30" />
+      <File FileName="MIPS Generator/NativeCode/FrameStack.cs" Line="29" Column="29" />
+      <File FileName="Class Intermediate Language/AST/Instructions/Memory/TypeOf.cs" Line="11" Column="1" />
+      <File FileName="Cool Semantic Check/Scopes/CoolTable.cs" Line="46" Column="28" />
+      <File FileName="Class Intermediate Language/AST/Instructions/Memory/Allocate.cs" Line="1" Column="1" />
+      <File FileName="Class Intermediate Language/AST/Instructions/Param/Param.cs" Line="13" Column="33" />
+      <File FileName="Class Intermediate Language/AST/Functions/CIL_LocalVariable.cs" Line="7" Column="16" />
+      <File FileName="Class Intermediate Language/Interfaces/ICIL_CodeGenerator.cs" Line="12" Column="18" />
+      <File FileName="Class Intermediate Language/CodeGenerator/CIL_CodeGenerator.cs" Line="25" Column="1" />
+      <File FileName="Class Intermediate Language/AST/Instructions/Attributes/SetAttr.cs" Line="14" Column="1" />
+      <File FileName="Class Intermediate Language/AST/Instructions/Assign/Assign.cs" Line="14" Column="1" />
+      <File FileName="MIPS Generator/NativeCode/Register.cs" Line="25" Column="50" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CoolCompiler" expanded="True">
+            <Node name="Class Intermediate Language" expanded="True">
+              <Node name="AST" expanded="True">
+                <Node name="Functions" expanded="True" />
+                <Node name="Instructions" expanded="True">
+                  <Node name="Assign" expanded="True" />
+                  <Node name="Attributes" expanded="True" />
+                  <Node name="Dispatch" expanded="True" />
+                  <Node name="Memory" expanded="True" />
+                  <Node name="Param" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="CodeGenerator" expanded="True" />
+              <Node name="Interfaces" expanded="True" />
+              <Node name="Utils" expanded="True" />
+              <Node name="Visitor" expanded="True" />
+            </Node>
+            <Node name="CoolGrammar" expanded="True">
+              <Node name="CodeGeneration" expanded="True" />
+            </Node>
+            <Node name="CoolSemanticCheck" expanded="True">
+              <Node name="Scopes" expanded="True" />
+              <Node name="Visitor" expanded="True" />
+            </Node>
+            <Node name="MIPS Generator" expanded="True">
+              <Node name="Generator" expanded="True" />
+              <Node name="Interface" expanded="True" />
+              <Node name="NativeCode" expanded="True">
+                <Node name="NativeInstruction.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="Tester" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>programNode</Value>
+          <Value>node</Value>
+          <Value>node.ClassesList</Value>
+          <Value>classNode</Value>
+          <Value>classNode.TypeParent</Value>
+          <Value>queue.Peek()</Value>
+          <Value>classNode.TypeClass</Value>
+          <Value>feature</Value>
+          <Value>type</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../Cool Semantic Check/Visitor/TypeCheckerVisitor.cs" line="117" offsetX="871" offsetY="2288" expression="node" liveUpdate="False" />
+    <Watch file="../../../Class Intermediate Language/Visitor/CodeGeneratorVisitor.cs" line="89" offsetX="665" offsetY="1755" expression="cls" liveUpdate="False" />
+    <Watch file="../../../Tester/Program.cs" line="94" offsetX="571" offsetY="1746" expression="CIL_Factory.Program" liveUpdate="False" />
+    <Watch file="../../../MIPS Generator/Generator/MIPS GeneratorVisitor.cs" line="85" offsetX="304" offsetY="1589" expression="MipsInstructions" liveUpdate="False" />
+    <Watch file="../../../Tester/Program.cs" line="94" offsetX="471" offsetY="1261" expression="CIL_Factory.Program" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.Tester PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/jonathanfigueroa/Desktop/Compiler/Jonathan/latest/CoolCompiler/Tester/Program.cs" relfile="Tester/Program.cs" line="25" column="53" />
+      <Breakpoint file="/Users/jonathanfigueroa/Desktop/Compiler/Jonathan/latest/CoolCompiler/Cool Semantic Check/Visitor/TypeCollectorVisitor.cs" relfile="Cool Semantic Check/Visitor/TypeCollectorVisitor.cs" line="16" column="1" />
+      <Breakpoint file="/Users/jonathanfigueroa/Desktop/Compiler/Jonathan/latest/CoolCompiler/Cool Semantic Check/Visitor/TypeBuilderVisitor.cs" relfile="Cool Semantic Check/Visitor/TypeBuilderVisitor.cs" line="134" column="30" />
+      <Breakpoint file="/Users/jonathanfigueroa/Desktop/Compiler/Jonathan/latest/CoolCompiler/Cool Semantic Check/Visitor/TypeBuilderVisitor.cs" relfile="Cool Semantic Check/Visitor/TypeBuilderVisitor.cs" line="106" column="1" />
+      <Breakpoint file="/Users/jonathanfigueroa/Desktop/Compiler/Jonathan/latest/CoolCompiler/Cool Semantic Check/Visitor/TypeCheckerVisitor.cs" relfile="Cool Semantic Check/Visitor/TypeCheckerVisitor.cs" line="135" column="25" />
+      <Breakpoint file="/Users/jonathanfigueroa/Desktop/Compiler/Jonathan/latest/CoolCompiler/Tester/Program.cs" relfile="Tester/Program.cs" line="90" column="1" />
+      <Breakpoint file="/Users/jonathanfigueroa/Desktop/Compiler/Jonathan/latest/CoolCompiler/Tester/Program.cs" relfile="Tester/Program.cs" line="93" column="1" />
+      <Breakpoint file="/Users/jonathanfigueroa/Desktop/Compiler/Jonathan/latest/CoolCompiler/Class Intermediate Language/Visitor/CodeGeneratorVisitor.cs" relfile="Class Intermediate Language/Visitor/CodeGeneratorVisitor.cs" line="168" column="1" />
+      <Breakpoint file="/Users/jonathanfigueroa/Desktop/Compiler/Jonathan/latest/CoolCompiler/MIPS Generator/Generator/MIPS GeneratorVisitor.cs" relfile="MIPS Generator/Generator/MIPS GeneratorVisitor.cs" line="110" column="35" />
+      <Breakpoint file="/Users/jonathanfigueroa/Desktop/Compiler/Jonathan/latest/CoolCompiler/MIPS Generator/Generator/MIPS GeneratorVisitor.cs" relfile="MIPS Generator/Generator/MIPS GeneratorVisitor.cs" line="115" column="18" />
+      <Breakpoint file="/Users/jonathanfigueroa/Desktop/Compiler/Jonathan/latest/CoolCompiler/Class Intermediate Language/Visitor/CodeGeneratorVisitor.cs" relfile="Class Intermediate Language/Visitor/CodeGeneratorVisitor.cs" line="1145" column="1" />
+      <Breakpoint file="/Users/jonathanfigueroa/Desktop/Compiler/Jonathan/latest/CoolCompiler/Class Intermediate Language/Visitor/CodeGeneratorVisitor.cs" relfile="Class Intermediate Language/Visitor/CodeGeneratorVisitor.cs" line="147" column="1" />
+      <Breakpoint file="/Users/jonathanfigueroa/Desktop/Compiler/Jonathan/latest/CoolCompiler/MIPS Generator/Generator/MIPS GeneratorVisitor.cs" relfile="MIPS Generator/Generator/MIPS GeneratorVisitor.cs" line="126" column="36" />
+      <Breakpoint file="/Users/jonathanfigueroa/Desktop/Compiler/Jonathan/latest/CoolCompiler/Tester/Program.cs" relfile="Tester/Program.cs" line="62" column="1" />
+      <Breakpoint file="/Users/jonathanfigueroa/Desktop/Compiler/Jonathan/latest/CoolCompiler/Tester/Program.cs" relfile="Tester/Program.cs" line="70" column="1" />
+      <Breakpoint file="/Users/jonathanfigueroa/Desktop/Compiler/Jonathan/latest/CoolCompiler/Tester/Program.cs" relfile="Tester/Program.cs" line="78" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

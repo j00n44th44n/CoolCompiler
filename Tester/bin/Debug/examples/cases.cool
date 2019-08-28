@@ -1,0 +1,15 @@
+class Main {
+	io: IO <- new IO;
+	main():Object {
+		{
+        case 2 of
+         a:Bool=> io.out_string("rama bool");
+         i:Int => io.out_string("rama int");
+         s:String =>io.out_string("rama string");
+         esac;
+		}
+	};
+};
+
+
+

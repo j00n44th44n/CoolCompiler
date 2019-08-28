@@ -1,0 +1,66 @@
+class Main inherits IO {
+    pal(s : String) : Bool {
+    -- if s.length() <= 1
+	-- then true
+	-- else if s.substr(0, 1) = s.substr(s.length() - 1, 1)
+	-- 		  then pal(s.substr(1, s.length() -2))
+	-- 		  else false
+	-- fi fi
+	if s.length() = 0
+	then true
+	else if s.length() = 1
+		 then true
+		 else if s.substr(0, 1) = s.substr(s.length() - 1, 1)
+			  then pal(s.substr(1, s.length() -2))
+			  else false
+	fi fi fi
+    };
+
+    i : Int;
+    s : String<- "peep";
+
+    main() : Object {
+	{
+		--out_string("enter a string\n");
+		--s <- in_string();
+		--out_string(s.substr(1, 3));
+		--i <- in_int();
+		--out_int(i);
+		--out_string("enter other string\n");
+		--out_string(s.concat(in_string()));
+		--out_int(s.length());
+
+		if false
+		then out_string("true\n")
+	    else out_string("false\n")
+	    fi; 
+        
+             i <- ~1;
+		-- s<-"polliloo";
+		out_string(s);
+		out_string("\n");
+		out_int(s.length());
+		out_string("\n");
+		out_string(s.substr(0, 1));
+		out_string("\n");
+		out_string(s.substr(s.length() - 1, 1));
+		out_string("\n");
+		--s<-s.substr( 1, s.length() - 2);
+		--out_int(s.length());
+		out_string(s.substr(1, s.length() -2));
+		out_string("\n");
+
+	    --out_string("enter a string\n");
+	    if pal(s)
+	    then out_string("that was a palindrome\n")
+	    else out_string("that was not a palindrome\n")
+	    fi;
+
+	    if s.substr(0, 1) = s.substr(s.length() - 1, 1)
+		then out_string("true")
+		else out_string("false")
+		fi;
+	    
+	}
+    };
+};

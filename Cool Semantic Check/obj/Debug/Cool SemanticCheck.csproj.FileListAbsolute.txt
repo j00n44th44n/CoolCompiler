@@ -1,0 +1,10 @@
+E:\De Hiran\CoolCompiler\Semantic\bin\Debug\CoolCheckSemantic.dll
+E:\De Hiran\CoolCompiler\Semantic\bin\Debug\CoolCheckSemantic.pdb
+E:\De Hiran\CoolCompiler\Semantic\bin\Debug\Antlr3.Runtime.dll
+E:\De Hiran\CoolCompiler\Semantic\bin\Debug\CoolGrammar.dll
+E:\De Hiran\CoolCompiler\Semantic\bin\Debug\CoolGrammar.pdb
+E:\De Hiran\CoolCompiler\Semantic\bin\Debug\Antlr3.Runtime.pdb
+E:\De Hiran\CoolCompiler\Semantic\obj\Debug\Cool SemanticCheck.csprojResolveAssemblyReference.cache
+E:\De Hiran\CoolCompiler\Semantic\obj\Debug\Cool SemanticCheck.csproj.CoreCompileInputs.cache
+E:\De Hiran\CoolCompiler\Semantic\obj\Debug\CoolCheckSemantic.dll
+E:\De Hiran\CoolCompiler\Semantic\obj\Debug\CoolCheckSemantic.pdb

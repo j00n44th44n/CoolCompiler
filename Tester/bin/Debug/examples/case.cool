@@ -1,0 +1,19 @@
+class Main {
+	io: IO <- new IO;
+	main():Object {
+		{
+        case 2 of
+         a:Bool=> io.out_string("rama bool");
+        --  i:Int => io.out_string("rama int");
+         s:String =>io.out_string("rama string");
+         esac;
+        -- new IO.out_string("Hello World");
+		-- io.out_string("2*(2+3)/5 = ");
+		-- io.out_int(2*(2+3)/5);
+		-- io.out_int(2/0);
+		}
+	};
+};
+
+
+
